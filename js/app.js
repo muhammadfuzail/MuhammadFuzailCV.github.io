@@ -114,13 +114,14 @@ const menu = [
       category: "illustrator",
       img: "./images/arr-images/item-7.jpeg",
     },
-    /*{
-      id: 8,
-      title: "american classic",
-      category: "lunch",
-      img: "./images/arr-images/item-8.jpeg",
-    },
     {
+      id: 8,
+      title: "Muhammad Fuzail CV",
+      category: "JavaScript",
+      img: "./images/arr-images/item-8.jpeg",
+	  link: "https://muhammadfuzail.github.io/MuhammadFuzailCV.github.io/",
+    },
+    /*{
       id: 9,
       title: "quarantine buddy",
       category: "shakes",
