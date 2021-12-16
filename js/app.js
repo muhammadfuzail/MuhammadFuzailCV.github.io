@@ -118,7 +118,7 @@ const menu = [
       id: 8,
       title: "Muhammad Fuzail CV",
       category: "JavaScript",
-      img: "./images/arr-images/item-8.jpeg",
+      img: "./images/arr-images/cv-template.png",
 	  link: "https://muhammadfuzail.github.io/MuhammadFuzailCV.github.io/",
     },
     /*{
