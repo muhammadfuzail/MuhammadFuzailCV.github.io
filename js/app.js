@@ -121,13 +121,14 @@ const menu = [
       img: "./images/arr-images/cv-template.png",
 	  link: "https://muhammadfuzail.github.io/MuhammadFuzailCV.github.io/",
     },
-    /*{
-      id: 9,
-      title: "quarantine buddy",
-      category: "shakes",
-      img: "./images/arr-images/item-9.jpeg",
-    },
     {
+      id: 9,
+      title: "Muhammad Fuzail CV",
+      category: "JavaScript",
+      img: "./images/arr-images/cv-template.png",
+	  link: "https://muhammadfuzail.github.io/MuhammadFuzailCV.github.io/",
+    },
+    /*{
       id: 10,
       title: "bison steak",
       category: "dinner",
