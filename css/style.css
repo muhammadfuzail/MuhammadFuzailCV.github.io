@@ -179,7 +179,7 @@ nav .inner button{
 	font-size: 14px;
 	border-radius: 4px;
 }
-nav .inner button a{
+nav .inner div a{
 	cursor: pointer;
 }
 .m-container{
