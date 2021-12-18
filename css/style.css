@@ -179,6 +179,9 @@ nav .inner button{
 	font-size: 14px;
 	border-radius: 4px;
 }
+nav .inner button a{
+	cursor: pointer;
+}
 .m-container{
 	
 	/*border-right: 1px solid #4ca1af ;*/
