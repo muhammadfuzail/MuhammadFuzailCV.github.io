@@ -32,11 +32,15 @@
 			</div>
 
 			<div>
+			<a href="CV -Fuzail.js" target="myCV">
 				<button>
 					<i class="fas fa-print">
 						Print
 					</i>
+					
 				</button>
+				Download Now
+				</a>
 			</div>
 		</div>
 	</nav>
